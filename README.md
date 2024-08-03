@@ -30,4 +30,4 @@ The Image Generator microservice will generate a random image from a local datat
 
 ## UML Sequence Diagram
 
-![UML Sequence Diagram](https://github.com/Bellajones4178/Assignment-8/uml_sequence_diagram.png)
+![UML Sequence Diagram](Sequence diagram.png)
